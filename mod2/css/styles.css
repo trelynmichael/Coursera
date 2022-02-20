@@ -17,6 +17,21 @@ p {
   color: white;
 }
 
+#mac {
+  background-color: gray;
+  color: blue;
+}
+
+#pes {
+  background-color: gray;
+  color: blue;
+}
+
+#veg {
+  background-color: gray;
+  color: blue;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
